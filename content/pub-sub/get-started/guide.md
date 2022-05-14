@@ -29,7 +29,7 @@ In order to use Pub/Sub, you need a [Cloudflare account](/fundamentals/get-start
 
 ## 1. Enable Pub/Sub
 
-During the Private Beta, your account will need to be explicitly granted access. If you have not, sign up for the waitlist, and we will contact you when you are granted access.
+During the Private Beta, your account will need to be explicitly granted access. If you have not, [sign up for the waitlist](https://www.cloudflare.com/cloudflare-pub-sub-lightweight-messaging-private-beta/), and we will contact you when you are granted access.
 
 ## 2. Fetch your credentials
 
